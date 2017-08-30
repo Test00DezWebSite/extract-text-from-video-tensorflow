@@ -1,0 +1,11 @@
+data/
+raw_data/
+train_log/
+models/
+*.mp4
+*.avi
+*.txt
+__pycache__
+transposed/
+labels/
+VideoText/
